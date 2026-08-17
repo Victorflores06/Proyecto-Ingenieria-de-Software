@@ -1,50 +1,48 @@
 # Visión del producto
 
-> **Plantilla del curso · Ingeniería de Software I · SIS3407**
-> Este documento es el primer entregable del semestre y la base de todo lo que viene después.
-> Se entrega completo en la **semana 4** y se presenta ante el grupo.
->
-> **Cómo usarla:** copia este archivo a tu repositorio como `docs/vision-del-producto.md`, borra las instrucciones en gris de cada apartado y escribe tu contenido en su lugar. Conserva los títulos.
 
 ---
 
-**Autor:**
-**Fecha de la última versión:**
-**Repositorio:**
+**Autor:** Victor Manuel Flores Venegas
+
+**Fecha de la última versión:** 17/08/2026
+
+**Repositorio:** https://github.com/Victorflores06/Proyecto-Ingenieria-de-Software
 
 ---
 
 ## 1. Descripción del sistema
 
-*Instrucción: nombre del sistema y qué hace, en un párrafo que cualquier persona entienda sin ser del área. Si necesitas usar una palabra técnica para explicarlo, todavía no está listo.*
-
-**Nombre del sistema:**
+**Nombre del sistema: TrackerPLEAS**
 
 **Descripción:**
+
+Es una plataforma web que funciona como un tablero digital donde los estudiantes pueden consultar en todo momento qué requisitos del programa PLEAS ya completaron y cuáles les faltan para poder graduarse. Al mismo tiempo, permite a los directores registrar y actualizar estos avances de forma rápida, manteniendo la información sincronizada y clara para todos sin necesidad de trámites ni revisiones manuales.
 
 ---
 
 ## 2. Problema y usuarios
 
-*Instrucción: qué problema resuelve, a quién le sirve y, muy importante, qué hace esa gente hoy para arreglárselas sin el sistema. Esa última parte es la que revela el problema real.*
-
 **El problema:**
 
+Los estudiantes no tienen certeza de su progreso ni de los requisitos pendientes para graduarse, lo que genera confusión, desinformación y el riesgo de retrasar su titulación. Por otro lado, la dirección invierte demasiado tiempo operativo recopilando y actualizando estos datos de forma manual para cada alumno.
+
 **Cómo se resuelve hoy sin el sistema:**
+
+Hoy en día, el proceso se gestiona mediante correos electrónicos, archivos de Excel desactualizados, listas en papel o citas presenciales donde el estudiante debe preguntar directamente a su director para revisar expediente por expediente cuál es su estatus actual.
 
 **Usuarios del sistema:**
 
 | Tipo de usuario | Qué necesita del sistema | Qué le preocupa |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+|Director General de Programas | Visualizar el avance global e indicadores de todos los estudiantes a través de todos los programas de liderazgo.|Que la información no esté unificada o que no se puedan generar reportes globales de participación.|
+|Director de Programa |Una herramienta ágil para actualizar y validar los requisitos cumplidos por los alumnos asignados a su programa específico. |Perder tiempo capturando datos uno por uno o cometer errores al registrar el cumplimiento de las actividades. |
+|Estudiante |Consultar su porcentaje de avance en tiempo real y conocer los requisitos pendientes para completar su diplomado. |Que sus actividades entregadas no se vean reflejadas a tiempo o que la plataforma no sea clara respecto a lo que le falta. |
 
-*Instrucción: necesitas al menos dos tipos de usuario con necesidades distintas. Si los dos quieren exactamente lo mismo, probablemente sean el mismo usuario.*
 
 **Un conflicto entre usuarios:**
 
-*Instrucción: describe algo que un usuario quiera y que a otro le estorbe. Ahí está tu primera decisión de diseño real.*
+El Estudiante desea que cualquier requisito completado (sea una actividad pequeña o una clase) se refleje de manera inmediata en su barra de progreso para tener la certeza de que ya fue registrado. Sin embargo, el Director de Programa necesita mantener un proceso de revisión y verificación manual previa antes de autorizar y publicar el avance en las actividades más grandes, importantes o en la acreditación de materias, para garantizar que los criterios del programa realmente se cumplieron antes de hacer oficial el registro.
 
 ---
 
