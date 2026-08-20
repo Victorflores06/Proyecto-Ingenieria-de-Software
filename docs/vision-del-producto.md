@@ -44,6 +44,9 @@ Hoy en día, el proceso se gestiona mediante correos electrónicos, archivos de 
 
 El Estudiante desea que cualquier requisito completado (sea una actividad pequeña o una clase) se refleje de manera inmediata en su barra de progreso para tener la certeza de que ya fue registrado. Sin embargo, el Director de Programa necesita mantener un proceso de revisión y verificación manual previa antes de autorizar y publicar el avance en las actividades más grandes, importantes o en la acreditación de materias, para garantizar que los criterios del programa realmente se cumplieron antes de hacer oficial el registro.
 
+**Huecos encontrados:**
+- Retirar responsabilidad directa de registro de la coordinación y automatizar con un API a Soy León
+- Definir bien los usuarios --> Sus alcances y limitaciones
 ---
 
 ## 3. Alcance
